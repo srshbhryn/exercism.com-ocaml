@@ -1,0 +1,4 @@
+(library
+ (name sandpit2 )
+ (libraries core base)
+)

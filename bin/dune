@@ -1,0 +1,13 @@
+(executable
+ (public_name main)
+ (name main)
+ (modules main)
+ (libraries sandpit2)
+)
+
+(executable
+ (name abc)
+ (public_name abc)
+ (modules abc)
+ (libraries sandpit2)
+)

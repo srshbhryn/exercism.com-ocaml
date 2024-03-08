@@ -1,0 +1,8 @@
+(tests
+ (names test_sandpit2 test_xo)
+ (libraries sandpit2 core base ounit2)
+
+)
+
+; (test
+;  (name test_xo))
