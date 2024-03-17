@@ -9,5 +9,5 @@
  (name abc)
  (public_name abc)
  (modules abc)
- (libraries sandpit2)
+ (libraries sandpit2 dream)
 )
