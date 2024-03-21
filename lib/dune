@@ -1,4 +1,4 @@
 (library
  (name sandpit2 )
- (libraries core base)
+ (libraries core base httpaf)
 )

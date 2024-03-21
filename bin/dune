@@ -1,8 +1,8 @@
 (executable
- (public_name main)
- (name main)
- (modules main)
- (libraries sandpit2)
+ (public_name af)
+ (name af)
+ (modules af)
+ (libraries sandpit2 httpaf lwt httpaf-lwt-unix )
 )
 
 (executable
