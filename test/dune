@@ -1,7 +1,7 @@
 (tests
- (names test_acronym)
+ (names test_allergies)
  ; (names test_sandpit2 test_xo test_phone_number)
- (libraries sandpit2 core base ounit2)
+ (libraries sandpit2 core base ounit2 qcheck)
 
 )
 
