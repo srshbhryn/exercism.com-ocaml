@@ -1,5 +1,5 @@
 (tests
- (names test_grade_school)
+ (names test_pangram)
  ; (names test_sandpit2 test_xo test_phone_number)
  (libraries sandpit2 core base ounit2 qcheck)
 
