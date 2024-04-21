@@ -1,9 +1,22 @@
 (tests
- (names test_luhn)
- ; (names test_sandpit2 test_xo test_phone_number)
+ (names
+   test_allergies
+   test_anagram
+   test_binary_search
+   test_bob
+   test_grade_school
+   test_matching_brackets
+   test_pangram
+   test_sandpit2
+   test_acronym
+   test_all_your_bases
+   test_beer_song
+   test_binary_search_tree
+   test_etl
+   test_luhn
+   test_nucleotide_count
+   test_phone_number
+   test_xo
+  )
  (libraries sandpit2 core base ounit2 qcheck)
-
 )
-
-; (test
-;  (name test_xo))
