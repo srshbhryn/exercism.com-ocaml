@@ -17,6 +17,7 @@
    test_nucleotide_count
    test_phone_number
    test_xo
+   test_word_count
   )
  (libraries sandpit2 core base ounit2 qcheck)
 )
