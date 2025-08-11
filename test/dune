@@ -18,6 +18,7 @@
    test_phone_number
    test_xo
    test_word_count
+   test_sieve
   )
  (libraries sandpit2 core base ounit2 qcheck)
 )
